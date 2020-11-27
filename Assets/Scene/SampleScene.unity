@@ -616,7 +616,7 @@ VisualEffect:
       - m_Value: {x: 4, y: 1.994332, z: 1.2264152, w: 0}
         m_Name: Sparks Colour
         m_Overridden: 1
-      - m_Value: {x: 0.3490566, y: 0.30665162, z: 0.29142934, w: 1}
+      - m_Value: {x: 0.46226418, y: 0.37416446, z: 0.3379762, w: 1}
         m_Name: Smoke Colour
         m_Overridden: 1
     m_Uint:

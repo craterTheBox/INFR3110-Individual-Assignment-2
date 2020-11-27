@@ -1979,7 +1979,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614633}
       inputSlot: {fileID: 8926484042661614628}
-    position: {x: 768, y: 1550}
+    position: {x: 728, y: 1505}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614633
